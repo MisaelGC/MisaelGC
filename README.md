@@ -1,4 +1,12 @@
-### Hi there 👋
+### AHOY!!!, Soy Misael!  👋
+
+```JS
+const misaelGc = {
+    pronouns: "he" | "him",
+    code: {HTML, CSS, JavaScript, TypeScript},
+    tools: {Angular, Bootstrap, Node},
+    }
+    
 
 <!--
 **MisaelGC/MisaelGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
