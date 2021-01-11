@@ -1,15 +1,19 @@
-### AHOY!!!, Soy Misael!  👋
+### AHOY!!!👋
 
 ![me](https://user-images.githubusercontent.com/40589269/104247926-3affbf00-542e-11eb-825c-f44f5623666e.jpg)
 
 ```JS
 const misaelGc = {
-    pronouns: "he" | "him",
     code: {HTML, CSS, JavaScript, TypeScript},
-    tools: {Angular, Bootstrap, Node},
+    tools: {Angular, Bootstrap},
+    tecnologies: "web",
+    passions: {Web Development}
     }
     
-
+You can find me: 
+GitHub: https://github.com/MisaelGC
+Instagram: https://www.instagram.com/moretonaco/
+Personal Blog: https://misaelgc.github.io/personalBlog/
 <!--
 **MisaelGC/MisaelGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
