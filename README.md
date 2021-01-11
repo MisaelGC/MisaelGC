@@ -1,6 +1,6 @@
 ### AHOY!!!👋
 
-![me](https://user-images.githubusercontent.com/40589269/104247926-3affbf00-542e-11eb-825c-f44f5623666e.jpg)
+![me](https://user-images.githubusercontent.com/40589269/104251345-1f4be700-5435-11eb-9300-4ab6f13390fd.jpg)
 
 ```JS
 const misaelGc = {
