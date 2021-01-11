@@ -1,5 +1,7 @@
 ### AHOY!!!, Soy Misael!  👋
 
+![me](https://user-images.githubusercontent.com/40589269/104247926-3affbf00-542e-11eb-825c-f44f5623666e.jpg)
+
 ```JS
 const misaelGc = {
     pronouns: "he" | "him",
