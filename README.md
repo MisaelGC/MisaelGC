@@ -11,9 +11,10 @@ const misaelGc = {
     }
     
 You can find me: 
-GitHub: https://github.com/MisaelGC
-Instagram: https://www.instagram.com/moretonaco/
-Personal Blog: https://misaelgc.github.io/personalBlog/
+- [GitHub](https://github.com/MisaelGC)
+- [Instagram](https://www.instagram.com/moretonaco/)
+- [Personal Blog](https://misaelgc.github.io/personalBlog/)
+
 <!--
 **MisaelGC/MisaelGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
