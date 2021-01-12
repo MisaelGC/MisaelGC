@@ -9,9 +9,9 @@ const misaelGc = {
     tecnologies: "web",
     passions: {Web Development}
     }
+```    
     
-    
-````
+````bash
  >help --contact
  >Instagram: www.instagram.com/moretonaco
  >Blog: misaelgc.github.io/personalBlog
