@@ -20,7 +20,7 @@ const misaelGc = {
 ## You can find me    
 
 [![](https://img.shields.io/badge/MIsaelGC-IG-orange)](https://www.instagram.com/moretonaco)
-[![](https://img.shields.io/badge/Misael-Blog-2196f3)](misaelgc.github.io/personalblog/)
+[![](https://img.shields.io/badge/Misael-Blog-c55f5f)](misaelgc.github.io/personalblog/)
 [![](https://img.shields.io/badge/Misael-Linkedin-blue)](www.linkedin.com/in/misael-garcia-cruz/)
 [![](https://img.shields.io/badge/MIsaelGC-GitHub-DDDDDD)](github.com/MisaelGC)
 
