@@ -11,7 +11,7 @@
 ## About Me in Code
 ```js
 const misaelGc = {
-    code: {HTML, CSS, JavaScript, TypeScript},
+    code: {HTML, CSS, JavaScript},
     tools: {Linux, Bootstrap},
     tecnologies: "web",
     passions: {Web Development}
@@ -21,6 +21,7 @@ const misaelGc = {
 ## Learning
 
 <div style="display: block;">
+    <h5>✨ TypeScript</h5>
     <h5>✨ Angular</h5>
     <h5>✨ NodeJS</h5>
     <h5>✨ React</h5>
