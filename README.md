@@ -10,8 +10,11 @@ const misaelGc = {
     passions: {Web Development}
     }
     
->help --contact
->Instagram: moretonaco
->Blog: misaelgc.github.io/personalBlog
->Linkedin: www.linkedin.com/in/misael-garcia-cruz/
->GitHub: github.com/MisaelGC
+    
+````bash
+ >help --contact
+ >Instagram: www.instagram.com/moretonaco
+ >Blog: misaelgc.github.io/personalBlog
+ >Linkedin: www.linkedin.com/in/misael-garcia-cruz/
+ >GitHub: github.com/MisaelGC
+````
