@@ -14,7 +14,7 @@ const misaelGc = {
 ````bash
  >help --contact
  >Instagram: www.instagram.com/moretonaco
- >Blog: misaelgc.github.io/personalBlog
+ >Blog: misaelgc.github.io/personalblog/
  >Linkedin: www.linkedin.com/in/misael-garcia-cruz/
  >GitHub: github.com/MisaelGC
 ````
