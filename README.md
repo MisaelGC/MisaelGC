@@ -12,11 +12,21 @@
 ```js
 const misaelGc = {
     code: {HTML, CSS, JavaScript, TypeScript},
-    tools: {Angular, Bootstrap},
+    tools: {Linux, Bootstrap},
     tecnologies: "web",
     passions: {Web Development}
     }
 ```    
+
+## Learning
+
+<div style="display: block;">
+    <h5>✨ Angular</h5>
+    <h5>✨ NodeJS</h5>
+    <h5>✨ React</h5>
+    <h5>✨ Mongo</h5>
+</div>
+
 ## You can find me    
 
 [![](https://img.shields.io/badge/MIsaelGC-IG-orange)](https://www.instagram.com/moretonaco)
