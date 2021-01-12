@@ -2,6 +2,13 @@
 
 ![me](https://user-images.githubusercontent.com/40589269/104251345-1f4be700-5435-11eb-9300-4ab6f13390fd.jpg)
 
+## You can find me    
+
+[![](https://img.shields.io/badge/MIsaelGC-IG-orange)](https://www.instagram.com/moretonaco)
+[![](https://img.shields.io/badge/Misael-Blog-c55f5f)](misaelgc.github.io/personalblog/)
+[![](https://img.shields.io/badge/Misael-Linkedin-blue)](www.linkedin.com/in/misael-garcia-cruz/)
+[![](https://img.shields.io/badge/MIsaelGC-GitHub-DDDDDD)](github.com/MisaelGC)
+
 ## About Me :book:
 
 - :mexico: I'm From Mexico City
@@ -27,11 +34,3 @@ const misaelGc = {
     <h5>✨ React</h5>
     <h5>✨ Mongo</h5>
 </div>
-
-## You can find me    
-
-[![](https://img.shields.io/badge/MIsaelGC-IG-orange)](https://www.instagram.com/moretonaco)
-[![](https://img.shields.io/badge/Misael-Blog-c55f5f)](misaelgc.github.io/personalblog/)
-[![](https://img.shields.io/badge/Misael-Linkedin-blue)](www.linkedin.com/in/misael-garcia-cruz/)
-[![](https://img.shields.io/badge/MIsaelGC-GitHub-DDDDDD)](github.com/MisaelGC)
-
