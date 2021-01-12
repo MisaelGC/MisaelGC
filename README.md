@@ -10,7 +10,9 @@ const misaelGc = {
     passions: {Web Development}
     }
     
-You can find me: 
-
-- [Instagram](https://www.instagram.com/moretonaco)
-- [Blog](https://misaelgc.github.io/personalBlog)
+¨¨bash
+>help --contact
+>Instagram: moretonaco
+>Blog: misaelgc.github.io/personalBlog
+>Linkedin: www.linkedin.com/in/misael-garcia-cruz/
+>GitHub: github.com/MisaelGC
