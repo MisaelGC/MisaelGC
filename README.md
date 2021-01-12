@@ -18,10 +18,9 @@ const misaelGc = {
     }
 ```    
 ## You can find me    
-````bash
- >help --contact
- >Instagram: [www.instagram.com/moretonaco]
- >Blog: [misaelgc.github.io/personalblog/]
- >Linkedin: [www.linkedin.com/in/misael-garcia-cruz/]
- >GitHub: [github.com/MisaelGC]
-````
+
+[![](https://img.shields.io/badge/MIsaelGC-IG-orange)](https://www.instagram.com/moretonaco)
+[![](https://img.shields.io/badge/Misael-Blog-2196f3)](misaelgc.github.io/personalblog/)
+[![](https://img.shields.io/badge/Misael-Linkedin-blue)](www.linkedin.com/in/misael-garcia-cruz/)
+[![](https://img.shields.io/badge/MIsaelGC-GitHub-DDDDDD)](github.com/MisaelGC)
+
