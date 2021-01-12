@@ -1,4 +1,4 @@
-### AHOY!!!👋
+### AHOY!!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![me](https://user-images.githubusercontent.com/40589269/104251345-1f4be700-5435-11eb-9300-4ab6f13390fd.jpg)
 
