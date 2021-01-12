@@ -4,7 +4,7 @@
 
 ## About Me :book:
 
-- :mexico: Iḿ From Mexico City
+- :mexico: I'm From Mexico City
 - 🎓 Computer Systems Enginner
 - 🖥 Front End Web Development Enthusiastic
 
