@@ -2,6 +2,7 @@
 
 ![me](https://user-images.githubusercontent.com/40589269/104251345-1f4be700-5435-11eb-9300-4ab6f13390fd.jpg)
 
+#About Me in Code
 ```js
 const misaelGc = {
     code: {HTML, CSS, JavaScript, TypeScript},
@@ -10,7 +11,7 @@ const misaelGc = {
     passions: {Web Development}
     }
 ```    
-    
+#You can find me    
 ````bash
  >help --contact
  >Instagram: www.instagram.com/moretonaco
